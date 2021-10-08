@@ -6,6 +6,9 @@ This is a simple Counter Increase decrease and Reset
 - JAVASCRIPT
 - VS CODE
 
-### Screenshot of this work :
-![counter](https://user-images.githubusercontent.com/82101597/132385479-1c8e33db-d4be-46fa-8f4c-3784364fed5c.png)
+### Live of this work :
+
+|  #  |                                                           Project                                                           |                                           Live Demo                                           |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
+| 01  |  Counter-Increase-decrease-and-Reset      | [Live Demo](https://iariful.github.io/Counter-Increase-decrease-and-Reset/)
 
